@@ -1,7 +1,5 @@
 package studentgrade;
-
 import junit.framework.TestCase;
-
 /* JUnit 3.8.1 */
 public class StudentGradeTest extends TestCase {
     
